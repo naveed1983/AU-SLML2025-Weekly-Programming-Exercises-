@@ -1,3 +1,3 @@
-# Statistical Learning & Machine Learning - AU2023
+# Statistical Learning & Machine Learning - 2025
 
-This repository contains the student exercises for the Statistical Learning & Machine Learning course at Aarhus University.
+This repository contains the weekly programming exercises for students taking the course on Statistical Learning & Machine Learning at Aarhus University in Fall 2025.
